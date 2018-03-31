@@ -1,7 +1,7 @@
 # mockAndCorsTutorial
 -------------
 ### mock和cors简易教程
-#####node express,nginx, cors 
+####node express,nginx, cors 
 
 *见tutorial.js 和proxy.png*
 
