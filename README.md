@@ -1,7 +1,9 @@
 # mockAndCorsTutorial
 -------------
 ### mock和cors简易教程
-node express,nginx, cors 
+#####node express,nginx, cors 
+
+*见tutorial.js 和proxy.png*
 
 *特点*
 ##### 已经在脚手架（cli）环境下的前端项目需要进一步修改
