@@ -1,6 +1,6 @@
 # mock CORS tutorial
 -------------
-### mock和cors简易教程
+### mock和CORS简易教程
 node express,nginx, cors 
 
 ![proxy](https://github.com/Jasonchang6435/mockAndCorsTutorial/blob/master/proxy.png)
