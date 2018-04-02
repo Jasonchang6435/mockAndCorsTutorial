@@ -41,6 +41,6 @@ nginx这里只提供nginx.conf文件 根据以下参考链接安装和自行配�
         express node app.js
         比如 express 配置端口是7000
         nginx 默认端口9000 转发端口7000
-        前端项目是文件夹是/static（这里前端的ui不是express发送的 而是由nginx返回的）
+        前端项目是文件夹是/static（这里前端的ui不是express发送的 而是由nginx返回的 为了方便放在了express 的 static目录）
         浏览器访问localhost：9000可以看到ui  http请求/api/* 都会请求到express上
 */
