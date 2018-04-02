@@ -33,7 +33,8 @@ nginx这里只提供nginx.conf文件 根据以下参考链接安装和自行配�
     nginx 
         windows环境下直接解压 linux/mac需要自行安装 
         自定义conf/nginx.conf内的端口和ui文件夹绝对路径 
-        配置说明在nginx.conf带注释
+        配置说明在nginx.conf带注释的部分
+        其他环境安装的nginx都可以直接覆盖nginx.conf
         
     启动：
         cd nginx根目录   start nginx
