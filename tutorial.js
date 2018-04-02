@@ -17,7 +17,7 @@ CORS原理及解决方案
 
 
 mockServer 方案
-    node express 提供mock接口和数据 可以用随意替换为同样功能的软件提供接口，如soapui
+    node express 提供mock接口和数据 可以随意替换为同样功能的软件提供接口，如soapui
     nginx 提供转发请求和提供ui项目的server环境
     好处是
         这样你构建的好的前后端分离的项目可以在任意的目录调试
