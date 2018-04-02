@@ -1,4 +1,4 @@
-# mockAndCorsTutorial
+# mock CORS tutorial
 -------------
 ### mock和cors简易教程
 node express,nginx, cors 
