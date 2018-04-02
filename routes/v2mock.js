@@ -45,7 +45,13 @@ router.put('/qaRecords',(req,res) => {
 })
 
 
-
+router.post('/upload',upload.single('upfile'),(req,res) => {
+    log('debug request file', req.file)
+    let a = {
+        filePath: 'upfile/success/location',
+    }
+    res.send(a)
+})
 
 
 module.exports = router
